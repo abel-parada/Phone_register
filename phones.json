@@ -1,0 +1,20 @@
+[
+    {
+        "firstname":"Leila",
+        "lastname":"Hökki",
+        "phones":[
+            {"type":"home","number":"12345678"},
+            {"type":"work","number":"19876543"},
+            {"type":"work","number":"34567895"}
+        ]
+    },
+    {
+        "firstname":"Abel",
+        "lastname":"Parada",
+        "phones":[
+            {"type":"home","number":"56779376"},
+            {"type":"work","number":"41254657"},
+            {"type":"mobile","number":"76543245"}
+        ]
+    }
+]
